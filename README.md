@@ -7,6 +7,8 @@ https://drive.google.com/file/d/1pdRothacqdkC-j_3paabDw9g88Bn7NvL/view?usp=drive
 <h3>Elaborate / Elaboration </h3>
 
 
+<ul style="list-style-type:circle;">
+
 SACP= special agriculture credit program 
 BCBS= Basel Committee on Banking Supervision
 CRAR= capital to risk weighted asset ratio 
@@ -107,4 +109,6 @@ IDCP=Interest During Construction Period
 
 FRTB= Floating Rate Treasury Bond
 ALS= Assured Liquidity Support
+
+</ul>
 
